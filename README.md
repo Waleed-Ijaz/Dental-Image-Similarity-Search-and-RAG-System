@@ -39,7 +39,7 @@ Query Image → CNN Feature Extraction → Vector Search (Qdrant) → Similar Im
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/dental-image-similarity-search.git
-cd dental-image-similarity-search
+cd Dental-Image-Similarity-Search-and-RAG-System
 ```
 
 2. Install dependencies:
@@ -163,14 +163,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or support, please open an issue or contact [your-email@example.com]
+For questions or support, please open an issue or contact waleedijaz83@outlook.com
 
-## 🔮 Future Enhancements
-
-- [ ] Multi-modal search (text + image queries)
-- [ ] Batch processing capabilities
-- [ ] Web interface for easy interaction
-- [ ] Advanced filtering and search options
-- [ ] Integration with DICOM medical imaging standards
-- [ ] Real-time processing pipeline
-- [ ] Model fine-tuning capabilities
